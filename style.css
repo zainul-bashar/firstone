@@ -1,0 +1,29 @@
+.navbar{
+    position: sticky;
+    color: purple;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+     background-color: black;
+    
+}
+a{
+    font-size: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.images img{
+    width: 200px;
+    height:200px;
+    margin: 10px;
+}
